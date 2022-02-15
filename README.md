@@ -583,16 +583,12 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![home1](https://user-images.githubusercontent.com/93427255/154051677-8dd848ff-f1b5-48a8-ba23-c5d1a438340c.png)
-![home2](https://user-images.githubusercontent.com/93427255/154051715-5df792d5-8c1b-4164-b76e-a18708a3c16f.png)
-![home3](https://user-images.githubusercontent.com/93427255/154051764-2e4b9028-f910-4793-a5b4-d60964de954e.png)
+![home1](https://user-images.githubusercontent.com/93427255/154052722-8167e444-4bac-4033-88ec-107eb9e701ac.png)
+
 ### Contact us:
-![contact1](https://user-images.githubusercontent.com/93427255/154051834-740fea19-e0a2-48cd-8ccf-d36e5b2cc55b.png)
-![contact2](https://user-images.githubusercontent.com/93427255/154051858-bab3e5ce-0d89-410d-a15e-947498f1a07e.png)
+
 ### About us:
-![aboutus1](https://user-images.githubusercontent.com/93427255/154051916-e9beee3b-d945-4faf-a98f-0c5131b05479.png)
-![aboutus2](https://user-images.githubusercontent.com/93427255/154051928-372cf01d-238a-423a-99eb-9bb018095fcb.png)
-![aboutus3](https://user-images.githubusercontent.com/93427255/154051939-5bd77039-52b5-4e89-ab83-b6b068e62203.png)
+
 
 
 ## Result:
