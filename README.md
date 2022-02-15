@@ -583,7 +583,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![home1](https://user-images.githubusercontent.com/93427255/154052722-8167e444-4bac-4033-88ec-107eb9e701ac.png)
+home1.png
 
 ### Contact us:
 
